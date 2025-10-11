@@ -1,7 +1,7 @@
 # 🛡️ SOC HomeLab — End-to-End Detection & Analysis Project  
 **Author:** Aman Sharma  
 **Role:** SOC Analyst (HomeLab Simulation)  
-**Report:** [Aman_Sharma_SOC_Homelab_End_to_End_Project.pdf](./Aman_Sharma_SOC_Homelab_End_to_End_Project.pdf)
+**Report:** [SOC_Homelab_End_to_End_Project.pdf](./SOC_Homelab_End_to_End_Project.pdf)
 
 -
 
