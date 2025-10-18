@@ -109,9 +109,7 @@ index=snort sourcetype="snort:alert"
  ┣ 📄 Aman_Sharma_SOC_Homelab_End_to_End_Project.pdf
  ┣ 🧾 README.md
  ┣ 📁 screenshots/
- ┣ 📁 pcaps/
- ┣ 📁 snort_rules/
- ┗ 📁 splunk_dashboards/
+
 ```
 
 ---
