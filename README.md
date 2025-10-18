@@ -108,17 +108,14 @@ index=snort sourcetype="snort:alert"
 📂 Aman-SOC-Homelab/
  ┣ 📄 Aman_Sharma_SOC_Homelab_End_to_End_Project.pdf
  ┣ 🧾 README.md
- ┣ 📁 screenshots/
+
 
 ```
 
 ---
 
 ## 💬 Project Status
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Category-Cybersecurity-blue?style=for-the-badge" />
-</p>
+Completed
 
 ---
 
