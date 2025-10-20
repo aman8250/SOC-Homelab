@@ -2,6 +2,7 @@
 **Author:** Aman Sharma  
 **Role:** SOC Analyst (HomeLab Simulation)  
 **Report:** [SOC_Homelab_End_to_End_Project.pdf](./SOC_Homelab_End_to_End_Project.pdf)
+
 **Contact** aman825077@gmail.com
 
 -
